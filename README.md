@@ -4,7 +4,7 @@
 
 
 
-<p<O que aprendi?</p>
+<p>O que aprendi?</p>
 <p>Aprendi como preparar o ambiente de desenvolvimento até a criação de um jogo completo com diferentes interações.</p>
 
 <p>O que foi estudado?</p>
