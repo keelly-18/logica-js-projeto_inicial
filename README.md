@@ -2,7 +2,7 @@
 <h1 align="center"> Projeto Alura - Formação da Escola de Progamação </h1>
 <h2 align="center">Criação do jogo "Número Secreto" onde o usuário deve acertar qual é o número secreto. </h2>
 
-Acesse o jogo [Número Secreto]([https://pages.github.com/](https://keelly-18.github.io/logica-js-projeto_inicial/)).
+Acesse o jogo [Número Secreto]([https://keelly-18.github.io/logica-js-projeto_inicial/]).
 
 <p>O que aprendi?</p>
 <p>Aprendi como preparar o ambiente de desenvolvimento até a criação de um jogo completo com diferentes interações.</p>
